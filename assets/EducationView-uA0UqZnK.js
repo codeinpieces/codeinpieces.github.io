@@ -1,0 +1,1 @@
+import{_ as s,c as n,a,o}from"./index-B_4KvIbc.js";const t={},c={class:"about"};function r(d,e){return o(),n("div",c,e[0]||(e[0]=[a("h1",null,"This is an Education page",-1),a("p",null,"I'm a very educated person, you can ask my parents.",-1)]))}const u=s(t,[["render",r]]);export{u as default};

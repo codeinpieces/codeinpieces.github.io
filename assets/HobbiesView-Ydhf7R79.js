@@ -1,0 +1,1 @@
+import{_ as a,c as o,a as s,o as t}from"./index-B_4KvIbc.js";const c={},n={class:"about"};function r(i,e){return t(),o("div",n,e[0]||(e[0]=[s("h1",null,"This is an Hobbies page",-1),s("p",null,"Well, this is awkward...",-1)]))}const _=a(c,[["render",r],["__scopeId","data-v-c111fb00"]]);export{_ as default};
